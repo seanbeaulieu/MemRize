@@ -1,0 +1,16 @@
+C:\Users\sbeau\source\repos\MemRize\MemRize\obj\Debug\MemRize.csproj.AssemblyReference.cache
+C:\Users\sbeau\source\repos\MemRize\MemRize\obj\Debug\MemRize.Properties.Resources.resources
+C:\Users\sbeau\source\repos\MemRize\MemRize\obj\Debug\MemRize.csproj.GenerateResource.cache
+C:\Users\sbeau\source\repos\MemRize\MemRize\obj\Debug\MemRize.csproj.CoreCompileInputs.cache
+C:\Users\sbeau\source\repos\MemRize\MemRize\bin\Debug\MemRize.exe.config
+C:\Users\sbeau\source\repos\MemRize\MemRize\bin\Debug\MemRize.exe
+C:\Users\sbeau\source\repos\MemRize\MemRize\bin\Debug\MemRize.pdb
+C:\Users\sbeau\source\repos\MemRize\MemRize\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\sbeau\source\repos\MemRize\MemRize\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sbeau\source\repos\MemRize\MemRize\bin\Debug\System.ValueTuple.dll
+C:\Users\sbeau\source\repos\MemRize\MemRize\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\sbeau\source\repos\MemRize\MemRize\obj\Debug\MemRize.csproj.CopyComplete
+C:\Users\sbeau\source\repos\MemRize\MemRize\obj\Debug\MemRize.exe
+C:\Users\sbeau\source\repos\MemRize\MemRize\obj\Debug\MemRize.pdb
+C:\Users\sbeau\source\repos\MemRize\MemRize\obj\Debug\MemRize.csproj.SuggestedBindingRedirects.cache
+C:\Users\sbeau\source\repos\MemRize\MemRize\obj\Debug\MemRize.exe.config
